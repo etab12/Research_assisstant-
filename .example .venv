@@ -1,0 +1,7 @@
+
+Model_API_KEY=your_api_key_here
+Model_BASE_URL=""
+MODEL_Name="Model Name"
+
+NCBI_EMAIL=your_email@example.com
+NCBI_API_KEY=""
